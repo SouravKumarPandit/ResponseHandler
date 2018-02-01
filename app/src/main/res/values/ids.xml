@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="on_thread" type="id"/>
+    <item name="using_async" type="id"/>
+    <item name="okhttp" type="id"/>
+    <item name="retrofit" type="id"/>
+    <item name="using_volley" type="id"/>
+    <item name="root_ll" type="id"/>
+</resources>
